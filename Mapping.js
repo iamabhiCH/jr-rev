@@ -16,4 +16,4 @@ const user = [
     },
 ];
 
-console.log(user[user.length-1])
+// console.log(user[user.length-1].city)
